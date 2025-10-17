@@ -24,5 +24,5 @@ For example, given "4012-8888-8888-1881" return "\*\*\*\*-\*\*\*\*-\*\*\*\*-1881
 
 👤 **John Wesley**  
 
-- LinkedIn: [linkedin.com/in/john-wesley-omondi](www.linkedin.com/in/john-wesley-omondi)  
-- GitHub: [github.com/Wesley-John](https://github.com/Wesley-John)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/john-wesley-omondi)  
+- [Connect with me on GitHub](https://github.com/Wesley-John)
