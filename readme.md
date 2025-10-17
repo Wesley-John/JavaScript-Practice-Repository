@@ -18,6 +18,8 @@ Given a string of credit card numbers, return a masked version of it using the f
 - Leave the remaining characters unchanged.
 For example, given "4012-8888-8888-1881" return "****-****-****-1881".
 
+[View the code](cardMasker.js)
+
 ## Author
 
 👤 **John Wesley**  
