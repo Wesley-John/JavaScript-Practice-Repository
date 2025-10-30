@@ -8,6 +8,7 @@ This is a repository that contains all the JavaScript files that I have used to 
 
 - [Credit Card Masker](#credit-card-masker)
 - [Book Organizer](#book-organizer)
+- [Sorted Index Finder](#sorted-index-finder)
 - [Author](#author)
 
 ## Credit Card Masker
@@ -33,6 +34,17 @@ For example, given "4012-8888-8888-1881" return "\*\*\*\*-\*\*\*\*-\*\*\*\*-1881
 - You should sort the books in the filteredBooks array according to their releaseYear in ascending order. You learned in a prior lesson that the sort() method will sort the array in place. This means the filteredBooks array will be mutated.
 
 [View the code](bookOrganizer.js)
+
+## Sorted Index Finder
+
+Create a function that returns the lowest index at which a value should be inserted into an array once it has been sorted in ascending order.
+
+- You should have a getIndexToIns function that takes two arguments: an array and a number.
+- You should use the sort method to sort the array in ascending order.
+- Your getIndexToIns function should return the lowest index at which the number should be inserted by using the findIndex method.
+- Your getIndexToIns function should always return a number
+
+[View the code](sortedIndexFinder.js)
 
 ## Author
 
